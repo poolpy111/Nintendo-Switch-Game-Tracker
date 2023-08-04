@@ -14,3 +14,18 @@ The Nintendo Switch Game Tracker is a Python desktop application designed to kee
 This application serves as a one-stop destination for anyone looking to stay informed about the latest Nintendo Switch game releases. It's more than just a list; it's a dynamic and interactive tool tailored to enhance the user's browsing experience.
 
 Whether you are a dedicated gamer, a collector, or just someone interested in the Nintendo Switch game scene, the Nintendo Switch Game Tracker provides you with a quick, accurate, and convenient way to access the latest information.
+
+## Specifications and Requirements
+
+### Software Requirements
+- **Python:** Version 3.6 or higher.
+- **Libraries:** The following Python libraries are required:
+  - requests
+  - BeautifulSoup
+  - tkinter
+
+### Installation
+1. Clone the repository or download the source code.
+2. Install the required Python libraries using the following command:
+   ```bash
+   pip install -r requirements.txt
